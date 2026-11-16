@@ -20,7 +20,7 @@ Python · PyTorch · Hugging Face · LoRA · MuJoCo · Isaac Sim · Lean 4 · Ge
 #### 🎾 Offline
 Tennis and chess 
 
-📫 [LinkedIn](https://www.linkedin.com/in/livien-mauro-majer-40b59429a/) · Always happy to chat about robots, research, or hackathon ideas.
+📫 [LinkedIn](https://www.linkedin.com/in/livien-mauro-majer-40b59429a/) · Always happy to chat about robots, research, and everything interesting.
 <!--
 **LivienMajer/LivienMajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
